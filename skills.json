@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Robot Framework",
+        "icon": "https://cdn.simpleicons.org/robotframework/FFFFFF"
+    },
+    {
+        "name": "Selenium",
+        "icon": "https://cdn.simpleicons.org/selenium"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/python--v1.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://cdn.simpleicons.org/jira/0052CC"
+    },
+    {
+        "name": "Confluence",
+        "icon": "https://cdn.simpleicons.org/confluence/1868DB"
+    },
+    {
+        "name": "ChatGPT",
+        "icon": "https://img.icons8.com/fluency/48/chatgpt.png"
+    },
+    {
+        "name": "Gemini",
+        "icon": "https://cdn.simpleicons.org/googlegemini"
+    },
+    {
+        "name": "Microsoft Office",
+        "icon": "https://img.icons8.com/color/48/microsoft-office-2019.png"
+    },
+    {
+        "name": "XPath / Locators",
+        "icon": "https://img.icons8.com/fluency/48/search-in-list.png"
+    },
+    {
+        "name": "Test Case Design",
+        "icon": "fa-clipboard-check",
+        "iconType": "fontawesome",
+        "iconColor": "#4CAF50"
+    },
+    {
+        "name": "Functional & Regression Testing",
+        "icon": "fa-vial",
+        "iconType": "fontawesome",
+        "iconColor": "#AB47BC"
+    },
+    {
+        "name": "Test Execution & Analysis",
+        "icon": "fa-chart-line",
+        "iconType": "fontawesome",
+        "iconColor": "#29B6F6"
+    },
+    {
+        "name": "Defect Reporting & Tracking",
+        "icon": "fa-bug",
+        "iconType": "fontawesome",
+        "iconColor": "#EF5350"
+    },
+    {
+        "name": "Automation Script Maintenance",
+        "icon": "fa-tools",
+        "iconType": "fontawesome",
+        "iconColor": "#FFA726"
+    },
+    {
+        "name": "SAFe Agile / PI Planning · 5 Sprints",
+        "icon": "fa-calendar-check",
+        "iconType": "fontawesome",
+        "iconColor": "#26A69A"
+    }
+]
